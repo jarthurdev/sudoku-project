@@ -10,4 +10,4 @@ Projeto criado para conclusão da disciplina de Algoritmo e Lógica de Programa�
 ## Como executar?
 - Você pode executar rodando o código *main.py* ou executando o arquivo *sudoku.exe*
 
-#Boa jogatina! 🔢🎮
+Boa jogatina! 🔢🎮
